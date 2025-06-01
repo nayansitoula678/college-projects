@@ -1,0 +1,19 @@
+
+
+ATM session started.
+Balance Inquiry - Balance: 4500000
+ATM session ended.
+
+ATM session started.
+Balance Inquiry - Balance: 450000
+Deposit - Amount: 4500000, Balance: 4950000
+Balance Inquiry - Balance: 4950000
+Balance Inquiry - Balance: 4950000
+Withdrawal - Amount: 950000, Balance: 4000000
+Balance Inquiry - Balance: 4000000
+ATM session ended.
+
+ATM session started.
+Balance Inquiry - Balance: 4000000
+ATM session ended.
+
